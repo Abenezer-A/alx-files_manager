@@ -1,2 +1,2 @@
 # alx-files_manager
-iles_manager
+files_manager
